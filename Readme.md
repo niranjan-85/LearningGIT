@@ -32,6 +32,7 @@ It is a space to store all of your projects/source code.It can be local to a fol
         2. Several programmers then access the source code on the Sever and update a specific file / commit changes in the project directory.
         3. All the changes made by the users are stored on the central server. 
 ![](https://whimuc.com/JpH4shEeeqWHCvZ2DAytp5/7khUVVMUAw53vv.png)
+
     4. **Distributed VCS :-**
         1. These systems do not necessarily rely on a central server to store all the versions of a project’s files. Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive. This copy (or “clone”) has all of the metadata of the original.
         2. The act of getting new changes from a repository is usually called “pulling,” and the act of moving your own changes to a repository is called “pushing”. 
